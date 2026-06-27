@@ -9,7 +9,7 @@ Practice SQLconcepts such as JOINs,GROUP BY,ORDER BY,Aggregate Functions,Window 
 Generate meaningful insights from the dataset.
 
 Database Files:
-schema.sql ["IPL-SQL-Analysis-Project\schema.sql"] -- Creates the database tables.
+schema.sql ["IPL-SQL-Analysis-Project\schema.sql"] -- Creates the database tables. 
 data.sql   ["IPL-SQL-Analysis-Project\data.sql"]  -- Inserts samaple data into the tables.
 queries.sql ["IPL-SQL-Analysis-Project\queries.sql"] -- Contains SQL queries for Analysis.
 
