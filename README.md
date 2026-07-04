@@ -1,6 +1,6 @@
 # IPL-SQL-Analysis-Project
 Project Overview:
-This project demonstrates my SQL skills by analyzing IPL Data. It focuses on designing a structured database, inserting IPL-related data and performing SQL queries to extract meaningful insights abou players,teams and match performance.
+This project demonstrates my SQL skills by analyzing IPL Data. It focuses on designing a structured database, inserting IPL-related data and performing SQL queries to extract meaningful insights about players,teams and match performance.
 
 Objectives:
 Design a relatable database for IPL data.
